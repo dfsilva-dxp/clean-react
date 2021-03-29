@@ -6,6 +6,11 @@
   "repository": "https://github.com/daniel-silva-dxp/clean-react.git",
   "author": "Daniel Silva <dani3l.dxp@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "",
+    "build": "",
+    "test": "jest"
+  },
   "devDependencies": {
     "@types/jest": "^26.0.22",
     "@types/node": "^14.14.37",
