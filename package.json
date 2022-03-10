@@ -12,6 +12,12 @@
     "test": "jest",
     "test:watch": "yarn test --watch"
   },
+  "lint-staged": {
+    "src/**/*": [
+      "yarn lint --fix"
+      // "yarn test --findRelatedTests --bail"
+    ]
+  },
   "devDependencies": {
     "@types/node": "^17.0.21",
     "@types/react": "^17.0.40",
