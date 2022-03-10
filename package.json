@@ -5,5 +5,10 @@
   "main": "index.js",
   "repository": "https://github.com/daniel-silva-dxp/clean-react.git",
   "author": "Daniel Silva <dani3l.dxp@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "@types/react": "^17.0.40",
+    "typescript": "^4.6.2"
+  }
 }
